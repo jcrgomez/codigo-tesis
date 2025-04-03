@@ -1,4 +1,3 @@
-# codigo-tesis
 # Códigos de Tesis Doctoral
 
 Este repositorio contiene los scripts desarrollados en el marco de mi tesis doctoral titulada:
