@@ -4,9 +4,9 @@ Este repositorio contiene los scripts desarrollados en el marco de mi tesis doct
 
 **Juegos cooperativos TU sobre complejos simpliciales y filtraciones**  
 Doctorado en Matemáticas  
-Universidad de Sevilla 
-Autor: JC Rodríguez-Gomez
-Directores: Manuel Ordoñez-Sanchez; Andrés Jiménez-Losada
+Universidad de Sevilla  
+Autor: JC Rodríguez-Gomez  
+Directores: Manuel Ordoñez-Sanchez; Andrés Jiménez-Losada.  
 
 ---
 
