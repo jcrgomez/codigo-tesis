@@ -107,12 +107,8 @@ while(cont < 4){
       }
     }
   }
-  #componente_conexa <- strsplit(componente_conexa, "")[[1]]
-  #cont <- length(componente_conexa)+1
   cont <- cont + 1
 }
-#   return(componentes_conexas)
-# }
 
 ###############################################################################
 #                                                                             #
@@ -268,64 +264,6 @@ f_particion_maximal <- function(x){
   duplicados_inversos <- duplicated(sapply(particiones_maximales,ordenar_convertir))
   particiones_maximales <- particiones_maximales[!duplicados_inversos]
   
-  #Funcion el cuadrado de |S|
-  #   suma_maxima <- c()
-  #   for(i in particiones_maximales){
-  #     suma <- 0
-  #     for(j in i){
-  #       j <- strsplit(j, "")[[1]]
-  #       suma <- suma + length(j)^2
-  #     }
-  #     suma_maxima <- c(suma_maxima,suma)
-  #   }
-  #   return(max(suma_maxima))
-  
-  #Funcion el |S| * maximo
-  #   funcion_particion <- c()
-  #   for(i in particiones_maximales){
-  #     suma <- 0
-  #     for(j in i){
-  #       j <- strsplit(j, "")[[1]]
-  #       vector <- c()
-  
-  #       for(k in j){
-  #         contador <- 0
-  #         for(g in complejo){
-  #           contador <- contador + 1
-  #           if(k==g){
-  #             break
-  #           }
-  #         }
-  #         vector <- c(vector,y[contador])
-  #       }
-  #       funcion <- max(vector) * length(vector)
-  #       suma <- suma + funcion
-  #     }
-  #     funcion_particion <- c(funcion_particion,suma)
-  #   }
-  #Funcion |S|*sum(S)*10
-  #   funcion_particion <- c()
-  #   for(i in particiones_maximales){
-  #     suma <- 0
-  #     for(j in i){
-  #       j <- strsplit(j, "")[[1]]
-  #       vector <- c()
-  #       for(k in j){
-  #         contador <- 0
-  #         for(g in complejo){
-  #           contador <- contador + 1
-  #           if(k==g){
-  #             break
-  #           }
-  #         }
-  #         vector <- c(vector,y[contador])
-  #       }
-  #       funcion <- sum(vector)*10
-  #       suma <- suma + funcion
-  #     }
-  #     funcion_particion <- c(funcion_particion,suma)
-  #   }
-  #Funcion caracteristica proporcional a las areas
   funcion_particion <- c()
   for(i in particiones_maximales){
     suma <- 0
@@ -376,15 +314,6 @@ f_conexa <- function(x){
     return(salida)
   }else{f_particion_maximal(x)}
 }
-
-# f_conexa <- function(x){
-#   if(x %in% complejo){
-#     vector <- c()
-#     x <- strsplit(x, "")[[1]]
-#     salida <- length(x)^2
-#     return(salida)
-#   }else{f_particion_maximal(x)}
-# }
 
 k_valor <- function(x){
   jugadores <- complejo[1:length(x)]
