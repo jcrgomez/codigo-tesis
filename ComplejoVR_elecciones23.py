@@ -8,7 +8,7 @@ import gudhi as gd
 from sklearn.metrics.pairwise import euclidean_distances
 
 # Cargar datos desde el archivo CSV
-file_path = "CHES_2024_final_v3.csv"
+file_path = "CHES_2024.csv" #escribe el directorio donde se encuentra la carpeta contenedora
 data = pd.read_csv(file_path, delimiter=";")
 
 # Seleccionar variables relevantes para FA (eliminando variables no significativas)
