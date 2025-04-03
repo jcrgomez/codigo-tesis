@@ -22,15 +22,7 @@ Los archivos incluidos en este repositorio corresponden a los principales experi
 - `Indice_riesgo_EMT`: Cálculo del índice Banzhaf de riesgo sobre el complejo simplicial con información genética de la transicion Epitelial-Mesenquimal (ETM).
 - `CHES_2024_FINAL_V3`: Base de datos de la encuesta de expertos Chapele Hill 2024, solo para partidos españoles que se presentaron en las elecciones de 2023.
 
----
-
-## 🧠 Contexto
-
-El objetivo de estos scripts es ilustrar los conceptos y resultados discutidos en la tesis, en particular:
-
-- El uso de herramientas topológicas para describir coaliciones en juegos cooperativos.
-- El cálculo del valor de Banzhaf en contextos biomédicos usando datos de expresión génica.
-- La generalización de valores clásicos a estructuras como complejos simpliciales.
+La base de datos asociada al estudio Epitelial-Mesenquimal no la he podido subir aqui por que es muy pesada. Para su descarga dirigase a la dirección https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166692
 
 ---
 
