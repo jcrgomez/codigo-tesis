@@ -41,5 +41,5 @@ El código no está diseñado para ser usado fuera del contexto de la tesis sin 
 ## 📬 Contacto
 
 Si desea más información o tiene preguntas, puede escribirme a:  
-📧 jcrgomez1986@gmail.com
+📧 juarodgom3@alum.us.es
 
