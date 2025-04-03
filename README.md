@@ -22,13 +22,13 @@ Los archivos incluidos en este repositorio corresponden a los principales experi
   
 - `ComplejoVR_elecciones23.py`: Análisis factorial de la encuesta de expertos Chapel Hills 2024 y elaboración del complejo simplicial de Vietoris-Rips.
   
-- `Complejo_EMT_riesgo.R`: Generaacióndel complejo simplicial con información genética de la transicion Epitelial-Mesenquimal (EMT).
+- `Complejo_EMT_riesgo.R`: Generaación del complejo simplicial con información genética de la transicion Epitelial-Mesenquimal (EMT).
   
-- `Indice_riesgo_EMT`: Cálculo del índice Banzhaf de riesgo sobre el complejo simplicial con información genética de la transicion Epitelial-Mesenquimal (ETM).
+- `Indice_riesgo_EMT`: Cálculo del índice Banzhaf de riesgo sobre el complejo simplicial con información genética de la transicion Epitelial-Mesenquimal (EMT).
   
 - `CHES_2024`: Base de datos de la encuesta de expertos Chapele Hill 2024, solo para partidos españoles que se presentaron en las elecciones de 2023.
 
-La base de datos asociada al estudio Epitelial-Mesenquimal no la he podido subir aqui por que es muy pesada. Para su descarga dirigase a la dirección https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166692
+Para la descarga de la base de datos asociada al estudio Epitelial-Mesenquimal dirigase a la dirección https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE166692
 
 ---
 
