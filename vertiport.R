@@ -86,12 +86,8 @@ while(cont < 4){
       }
     }
   }
-  #componente_conexa <- strsplit(componente_conexa, "")[[1]]
-  #cont <- length(componente_conexa)+1
   cont <- cont + 1
 }
-#   return(componentes_conexas)
-# }
 
 ###############################################################################
 #                                                                             #
