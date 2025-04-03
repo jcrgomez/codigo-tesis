@@ -10,7 +10,7 @@ library(future.apply)
 # ===================== #
 #     PARÁMETROS        #
 # ===================== #
-setwd("/Users/protor/Documents/Doctorado/celulas/datos")  # Ajusta esta ruta
+setwd("/Users/Documents/...")  # Ajusta esta ruta
 n_samples <- 500
 subset_size <- 3
 min_cel_genes <- 50
