@@ -3,11 +3,10 @@
 
 Este repositorio contiene los scripts desarrollados en el marco de mi tesis doctoral titulada:
 
-**“Título de tu tesis”**  
+**Juegos cooperativos TU sobre complejos simpliciales y filtraciones**  
 Doctorado en Matemáticas  
-Universidad [Nombre de tu universidad]  
-Autor: [Tu nombre completo]  
-Fecha de defensa: 12 de abril de 2025
+Universidad de Sevilla 
+Autor: JC Rodríguez-Gomez
 
 ---
 
